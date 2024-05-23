@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+  display: block;
+  color: red;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  opacity: 50%;
+}
+
+.yellow {
+  background-color: yellow;
+  color: yellow;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  opacity: 50%;
+}
+
+.green {
+  background-color: green;
+  color: green;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+  opacity: 50%;
+}
+  
+  .active {
+    opacity: 100%;
+  }
